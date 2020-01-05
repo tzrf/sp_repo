@@ -13,5 +13,9 @@ public class Order {
 	private String id;
 	private User user;
 	private List<Item> items;
+<<<<<<< HEAD
 
 }
+=======
+}
+>>>>>>> branch 'master' of https://github.com/benwang6/sp_repo.git
